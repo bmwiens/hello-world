@@ -1,1 +1,1 @@
-Add images here.
+Add assets here.
